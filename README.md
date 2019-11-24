@@ -6,11 +6,11 @@ leoDDcalculator, a package calculating the values of mdd and ndd of texts in a f
 
 A package calculating the values of mdd and ndd of texts in a folder (https://github.com/leileibama/leoDDcalculator)
 
-Based on udpipe (https://github.com/bnosac/udpipe)
+Based on udpipe (https://github.com/bnosac/udpipe). 
 
 Dependency distance (DD) refers to the linear distance of the pair of words that are in a dependency relation or are syntactically related. 
 
-Mean dependency distance (MDD) is the mean values of DDs of a sentence or a passage. 
+Mean dependency distance (MDD) is the mean value of DDs of a sentence or a passage. 
 
 Refer to Liu, Xu, and Liang (2017) for a detailed review of DD and mdd. 
 
@@ -20,6 +20,10 @@ Lei and Jockers (2018) proposed a new measure, i.e., normalized dependency dista
 
 Lei, L., & Jockers, M. L. (2018). Normalized Dependency Distance: Proposing a New Measure. Journal of Quantitative Linguistics, 1–18. https://doi.org/10.1080/09296174.2018.1504615
 
+### Note
+Note that any syntactic parser or dependency parser, including the one leoDDcalculator uses, is not 100% accurate. 
+
+You may need to manually check the parsing results before you use it in your research. Refer to Section 2.2 of Lei and Wen (2019) for a solution. 
 
 ##
 ## Developer
