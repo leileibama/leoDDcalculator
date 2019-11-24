@@ -177,6 +177,9 @@ mdd_ndd_calculate <- function(language_model_folder = 'C:/',
 
     }
 
+    mdd_v <- na.omit(mdd_v)
+    ndd_v <- na.omit(ndd_v)
+
     mdd_file <- as.character(round(mean(mdd_v), 4))
     ndd_file <- as.character(round(mean(ndd_v), 4))
 
