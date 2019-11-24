@@ -1,0 +1,9 @@
+Package: leoDDcalculator
+Type: Package
+Title: leoDDcalculator, a package calculating mdd and ndd of texts in a folder
+Version: 0.1.0
+Author: Leo Lei Lei
+Description: leoDDcalculator, a package calculating mdd and ndd of texts in a folder
+License: It is freeware
+Encoding: UTF-8
+LazyData: true
