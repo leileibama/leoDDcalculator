@@ -33,7 +33,7 @@ Dr. Leo Lei Lei, Professor of Applied Linguistics, Huazhong University of Scienc
 Contact: leileicn@qq.com
 
 ##
-### Please kindly cite the following articles if you use leolemmatizer in your research:
+### Please kindly cite the following articles if you use leoDDcalculator in your research:
 
 Lei, L., & Wen, J. (2019). Is dependency distance experiencing a process of minimization? A diachronic study based on the State of the Union addresses. Lingua, S002438411930511X. https://doi.org/10.1016/j.lingua.2019.102762
 
