@@ -42,7 +42,7 @@ Lei, L., & Jockers, M. L. (2018). Normalized Dependency Distance: Proposing a Ne
 ##
 The package is based on udpipe.
 
-Refer to the fowlloing for udpipe, the R package
+Refer to the following page for udpipe, the R package
 
 https://github.com/bnosac/udpipe
 
