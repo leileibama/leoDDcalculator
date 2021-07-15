@@ -28,7 +28,7 @@ You may need to manually check the parsing results before you use it in your res
 ##
 ## Developer
 
-Dr. Leo Lei Lei, Professor of Applied Linguistics, Huazhong University of Science and Technology, China
+Dr. Leo Lei Lei, Professor of Applied Linguistics, Shanghai Jiao Tong University, China
 
 Contact: leileicn@qq.com
 
