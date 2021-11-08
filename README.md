@@ -91,8 +91,8 @@ library(udpipe)
 
 library(leoDDcalculator)
 
-postag_lemmatize(language_model_folder = 'C:/',
-                 texts_folder = 'C:/mytexts/'))
+mdd_ndd_calculate(language_model_folder = 'C:/',
+                 texts_folder = 'C:/mytexts/')
 
 
 ##
